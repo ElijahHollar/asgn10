@@ -78,14 +78,14 @@ if($_POST['submit']) {
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Convert Length</title>
+    <title>Arcane Volume Converter</title>
     <link href="styles.css" rel="stylesheet" type="text/css">
   </head>
   <body>
 
     <div id="main-content">
 
-      <h1>Convert Length</h1>
+      <h1>Arcane Volume Converter</h1>
   
       <form action="" method="post">
         
